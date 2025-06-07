@@ -1,9 +1,13 @@
 import sys
+# ------------------------------ #
+#  Made you look!
+#  give me a job bro :)
+#  ♥ ♥ ♥ ♥ ♥ ♥ ♥
+# ------------------------------ #
 
 # Define the fixed coefficients obtained from the previous calculation
 COEFF_MILES = 0.4045
 COEFF_RECEIPTS = 0.3376
-
 
 # Known data
 DATASET = [
