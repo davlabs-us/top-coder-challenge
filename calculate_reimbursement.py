@@ -8056,4 +8056,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     result = get_expected_output(trip_duration_days, miles_traveled, total_receipts_amount)
-    print(f"{result}")
+    print(f"{result:.2f}")
